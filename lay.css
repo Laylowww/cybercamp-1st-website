@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.container {
+    color:green;
+    background-color:white;
+    height:100vh;
+    padding: 5em;
+    padding-right: 0;
+    box-sizing: border-box
+
+}
+.left {
+    width: 60%;
+    float: left;
+}    
+.right{
+    width:48%;
+    height: 100%;
+    float:right;
+    background-image: url("Ranenclaw_proud.png");
+    background-size: cover;
+}
+.right img{
+    height: 100%
+
+}
